@@ -2,7 +2,8 @@ header{
 	background-color:grey;
 	padding: 10px;
 }
+
 nav{
-	display: flex;
-	justify-content: space-around;
+  display: flex;
+  justify-content: space-around;
 }
